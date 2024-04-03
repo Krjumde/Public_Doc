@@ -1,0 +1,128 @@
+Kafka 
+
+1)Apache Kafka in a Nutshell
+https://medium.com/swlh/apache-kafka-in-a-nutshell-5782b01d9ffb#:~:text=Kafka%20is%20a%20distributed%20system,partitions%20hosted%20by%20the%20cluster.
+
+Apache Kafka Tutorial — Kafka For Beginners
+https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f
+
+An Introduction to Apache Kafka
+https://medium.com/better-programming/an-introduction-to-apache-kafka-95a82260c1c3
+
+Getting Started with Kafka
+https://medium.com/@achilleus/getting-started-with-kafka-e016760eda3d
+
+
+2)Building Data Pipelines With Kafka
+https://medium.com/@sarathjiguru/building-data-pipelines-with-kafka-735ea0b739b4
+
+3)Intro to Apache Kafka
+https://betterprogramming.pub/intro-to-apache-kafka-72bb3cb43d2e
+
+4)Kafka Monitoring by Zabbix
+https://medium.com/devoops-and-universe/kafka-monitoring-by-zabbix-bde7693bb86c
+
+5)Streaming Data from Apache Kafka Topic using Apache Spark 2.4.7 and Python
+
+https://sandeepkattepogu.medium.com/streaming-data-from-apache-kafka-topic-using-apache-spark-2-4-5-and-python-4073e716bdca
+
+6)Apache Kafka Tutorial — Kafka For Beginners
+
+https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f
+
+7)An Introduction to Apache Kafka
+https://betterprogramming.pub/an-introduction-to-apache-kafka-95a82260c1c3
+
+8)Getting Started with Kafka
+https://medium.com/@achilleus/getting-started-with-kafka-e016760eda3d
+
+9)How to Make Kafka Producer/Consumer Production-Ready
+https://medium.com/swlh/how-to-make-kafka-producer-consumer-production-ready-d40915b78c9
+
+10) Configs to Make Your Kafka Producer More Resilient
+
+https://towardsdatascience.com/10-configs-to-make-your-kafka-producer-more-resilient-ec6903c63e3f
+
+11)Processing Large Messages with Kafka Streams
+
+https://medium.com/bakdata/processing-large-messages-with-kafka-streams-167a166ca38b
+
+12)Implementing a Queryable User Profile Store using Kafka Streams
+
+https://medium.com/bakdata/implementing-a-queryable-user-profile-store-using-kafka-streams-a7dd2c0b2a54
+
+13)Apache Kafka — Resiliency, Fault Tolerance, & High Availability
+https://betterprogramming.pub/apache-kafka-resiliency-fault-tolerance-high-availability-8ab1c35c8823
+
+14)Stream Millions of events from your client to BigQuery in a Serverless way
+https://medium.com/google-cloud/stream-millions-of-events-from-your-client-to-bigquery-in-a-serverless-way-part-2-d2913ecee763
+
+15)Kafdrop
+https://towardsdatascience.com/kafdrop-e869e5490d62
+
+16)Is Apache Kafka a Database?
+https://kai-waehner.medium.com/is-apache-kafka-a-database-ddc310898f5c
+
+17)Building An Event-Driven Orchestration Engine
+https://gillesbarbier.medium.com/building-an-event-driven-orchestration-engine-bf62d45aef5d
+
+18)Add Schema Registry to Kafka in Your Local Docker Environment
+https://betterprogramming.pub/adding-schema-registry-to-kafka-in-your-local-docker-environment-49ada28c8a9b
+
+19)Setting Up Your Local Event-Driven Environment Using Kafka Docker
+https://betterprogramming.pub/your-local-event-driven-environment-using-dockerised-kafka-cluster-6e84af09cd95
+
+20)Choosing Right Partition Count & Replication Factor (Apache Kafka)
+https://medium.com/swlh/choosing-right-partition-count-replication-factor-apache-kafka-cf50b1bc75cf
+
+21)Kafka Docker: Run Multiple Kafka Brokers and ZooKeeper Services in Docker
+https://betterprogramming.pub/kafka-docker-run-multiple-kafka-brokers-and-zookeeper-services-in-docker-3ab287056fd5
+
+22)How to parallelise Kafka consumers
+https://medium.com/@jhansireddy007/how-to-parallelise-kafka-consumers-59c8b0bbc37a
+
+23)Kafka Consumer Architecture - Consumer Groups and Subscriptions
+https://dzone.com/articles/kafka-consumer-architecture-consumer-groups-and-su
+
+****24)Introduction to Kafka Tutorial
+
+https://coralogix.com/blog/a-complete-introduction-to-apache-kafka/
+
+21)Apache Kafka Stream with Spring Boot
+https://canerky96.medium.com/apache-kafka-stream-with-spring-boot-67f8e0ef21a0
+
+22)How to Handle Duplicate Messages and Message Ordering in Kafka
+https://betterprogramming.pub/how-to-handle-duplicate-messages-and-message-ordering-in-kafka-82e2fef82025
+
+23)Explain Consumer Offsets in Kafka.
+https://sagarkudu.medium.com/explain-consumer-offsets-in-kafka-e2bce1b6c746
+
+24)Apache Kafka Startup Guide: System Design Architectures: Notification System, Web Activity Tracker, ELT Pipeline, Storage System
+https://medium.com/swlh/apache-kafka-startup-guide-system-design-architectures-notification-system-web-activity-tracker-6dcaf0cf8a7
+
+25)Deep Dive into Apache Kafka: Your go-to Event Streaming Framework.
+
+https://jay-reddy.medium.com/deep-dive-into-apache-kafka-your-go-to-event-streaming-framework-124fa6180ff6
+
+26)Explain Consumer Offsets in Kafka
+https://sagarkudu.medium.com/explain-consumer-offsets-in-kafka-e2bce1b6c746
+
+27)Apache Kafka: What Is and How It Works
+https://medium.com/swlh/apache-kafka-what-is-and-how-it-works-e176ab31fcd5
+
+
+29)How Kafka handles Data Loss — Replication and In-Sync-Replica (ISR)
+https://sagarkudu.medium.com/how-kafka-handles-data-loss-replication-and-in-sync-replica-isr-9d72d0134234
+
+
+
+
+
+
+
+
+
+
+
+
+
